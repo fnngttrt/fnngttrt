@@ -1,6 +1,6 @@
 ### Hi I'm Fynn Göttert
 
-[![Fnngttrts's github stats](https://github-readme-stats.vercel.app/api?username=fnngttrt)](https://github.com/anuraghazra/github-readme-stats)
+[![Fnngttrts's github stats](https://github-readme-stats.vercel.app/api?username=fnngttrt&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **fnngttrt/fnngttrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
